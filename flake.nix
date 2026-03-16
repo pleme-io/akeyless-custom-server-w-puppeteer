@@ -15,7 +15,7 @@
         version = "0.0.0-dev";
         src = self;
         sourceRoot = "source/node-app";
-        npmDepsHash = "sha256-SBfHd2Jo5uII5vBAmTcMIGgstY3lg6b460zBcPpkzZg="; # TODO: set correct hash
+        npmDepsHash = "sha256-SBfHd2Jo5uII5vBAmTcMIGgstY3lg6b460zBcPpkzZg=";
         dontNpmBuild = true;
         meta = {
           description = "Akeyless Custom Server with Puppeteer for browser-based credential management";
